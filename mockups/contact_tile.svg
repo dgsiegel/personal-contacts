@@ -15,7 +15,7 @@
    id="svg7632"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="contacts.svg"
+   sodipodi:docname="contact_tile.svg"
    inkscape:export-filename="/home/allan/SparkleShare/gnome-design/mockups/contacts/contacts-toolbar.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="515.58273"
-     inkscape:cy="559.3621"
+     inkscape:zoom="1"
+     inkscape:cx="547.85466"
+     inkscape:cy="599.3621"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -70,26 +70,6 @@
        orientation="1,0"
        position="0,908.57423"
        id="guide6296" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="146,730.57423"
-       id="guide6306" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="466,664.57423"
-       id="guide6308" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="298,731.57423"
-       id="guide6310" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="303,649.57423"
-       id="guide7548" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="411,218.57423"
-       id="guide8642" />
   </sodipodi:namedview>
   <defs
      id="defs7634">
@@ -8152,7 +8132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8213,7 +8193,7 @@
            height="129"
            x="975"
            y="393" /></flowRegion><flowPara
-         id="flowPara8396"></flowPara></flowRoot>    <text
+         id="flowPara8396" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="168.99023"
@@ -8223,7 +8203,8 @@
          sodipodi:role="line"
          id="tspan6286"
          x="168.99023"
-         y="20.677727">GNOME Contacts: What does a contact look like?</tspan></text>
+         y="20.677727"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">GNOME Contacts: What does a contact look like?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -8234,7 +8215,7 @@
          sodipodi:role="line"
          x="171.23633"
          y="55.287102"
-         style="font-size:12px"
+         style="font-size:12px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan6294">Some people may find a contact easier visually, some prefer to read through text. We need to empower both groups.</tspan></text>
     <text
        xml:space="preserve"
@@ -8246,15 +8227,18 @@
          sodipodi:role="line"
          id="tspan6300"
          x="316.57422"
-         y="115.40429">First, we need a photo of our contact</tspan><tspan
+         y="115.40429"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">First, we need a photo of our contact</tspan><tspan
          sodipodi:role="line"
          x="316.57422"
          y="130.4043"
-         id="tspan6302">and his name. Both are key elements</tspan><tspan
+         id="tspan6302"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">and his name. Both are key elements</tspan><tspan
          sodipodi:role="line"
          x="316.57422"
          y="145.4043"
-         id="tspan6304">of each contact.</tspan></text>
+         id="tspan6304"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">of each contact.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -8265,19 +8249,23 @@
          sodipodi:role="line"
          id="tspan6318"
          x="317.27148"
-         y="177.4043">The result however looks a bit misaligned</tspan><tspan
+         y="177.4043"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">The result however looks a bit misaligned</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="192.4043"
-         id="tspan6320">and won't help visual people to find their </tspan><tspan
+         id="tspan6320"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">and won't help visual people to find their </tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="207.4043"
-         id="tspan6322">contact. Therefore we want to give each</tspan><tspan
+         id="tspan6322"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">contact. Therefore we want to give each</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="222.4043"
-         id="tspan7510">contact tile an appearance of a rectangle.</tspan></text>
+         id="tspan7510"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">contact tile an appearance of a rectangle.</tspan></text>
     <rect
        ry="3.4420753"
        rx="3.529243"
@@ -8300,35 +8288,43 @@
          sodipodi:role="line"
          id="tspan7514"
          x="317.27148"
-         y="258.4043">Great, now that looks quite nice! But the</tspan><tspan
+         y="258.4043"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Great, now that looks quite nice! But the</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="273.4043"
-         id="tspan7516">lower status line doesn't make much sense.</tspan><tspan
+         id="tspan7516"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">lower status line doesn't make much sense.</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="288.4043"
-         id="tspan7518">We came up with 2 ideas, how we could</tspan><tspan
+         id="tspan7518"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">We came up with 2 ideas, how we could</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="303.4043"
-         id="tspan7520">make use of that line. The first one is to </tspan><tspan
+         id="tspan7520"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">make use of that line. The first one is to </tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="318.4043"
-         id="tspan7522">put contact buttons in it, to allow users to </tspan><tspan
+         id="tspan7522"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">put contact buttons in it, to allow users to </tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="333.4043"
-         id="tspan7524">directly get in touch with their chosen contact.</tspan><tspan
+         id="tspan7524"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">directly get in touch with their chosen contact.</tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="348.4043"
-         id="tspan7526">The second was to put a specific text in it. </tspan><tspan
+         id="tspan7526"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">The second was to put a specific text in it. </tspan><tspan
          sodipodi:role="line"
          x="317.27148"
          y="363.4043"
-         id="tspan7528">Let's evaluate both.</tspan></text>
+         id="tspan7528"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Let's evaluate both.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.00000286px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -8469,7 +8465,7 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
        x="702.23633"
        y="425.28711"
        id="text7600"
@@ -8532,7 +8528,7 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
        x="695.23633"
        y="210.28711"
        id="text8340"
@@ -8551,79 +8547,98 @@
          sodipodi:role="line"
          x="886.23633"
          y="267.28711"
-         id="tspan8364">While it might be a cool idea to have direct contact</tspan><tspan
+         id="tspan8364"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">While it might be a cool idea to have direct contact</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="282.28711"
-         id="tspan8370">buttons, we soon run into the first problem: With many</tspan><tspan
+         id="tspan8370"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">buttons, we soon run into the first problem: With many</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="297.28711"
-         id="tspan8366">contacts, colors don't help to find a contact quickly, they</tspan><tspan
+         id="tspan8366"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">contacts, colors don't help to find a contact quickly, they</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="312.28711"
-         id="tspan8376">are very disturbing.</tspan><tspan
+         id="tspan8376"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">are very disturbing.</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="327.28711"
-         id="tspan8378" /><tspan
+         id="tspan8378"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><tspan
          sodipodi:role="line"
          x="886.23633"
          y="342.28711"
-         id="tspan8380">Okay then, let's get rid of colors. We still have two</tspan><tspan
+         id="tspan8380"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Okay then, let's get rid of colors. We still have two</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="357.28711"
-         id="tspan8384">big problems:</tspan><tspan
+         id="tspan8384"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">big problems:</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="372.28711"
-         id="tspan8382">1) What does a specific icon mean? is it IM, SMS? </tspan><tspan
+         id="tspan8382"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1) What does a specific icon mean? is it IM, SMS? </tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="387.28711"
-         id="tspan8386">    What if I prefer Jabber instead of GTalk? Many users</tspan><tspan
+         id="tspan8386"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    What if I prefer Jabber instead of GTalk? Many users</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="402.28711"
-         id="tspan8402">    will probably not know, so this could be a problem.</tspan><tspan
+         id="tspan8402"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    will probably not know, so this could be a problem.</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="417.28711"
-         id="tspan8388">2) If a user has several accounts of the same service, e.g.</tspan><tspan
+         id="tspan8388"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2) If a user has several accounts of the same service, e.g.</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="432.28711"
-         id="tspan8400">    multiple e-mail addresses, how can we use the correct</tspan><tspan
+         id="tspan8400"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    multiple e-mail addresses, how can we use the correct</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="447.28711"
-         id="tspan8404">    one? The answer simply is, we can't. Solutions would be</tspan><tspan
+         id="tspan8404"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    one? The answer simply is, we can't. Solutions would be</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="462.28711"
-         id="tspan8563">    to either take always the primary account of a service</tspan><tspan
+         id="tspan8563"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    to either take always the primary account of a service</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="477.28711"
-         id="tspan8410">    or to ask the user.</tspan><tspan
+         id="tspan8410"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">    or to ask the user.</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="492.28711"
-         id="tspan8412" /><tspan
+         id="tspan8412"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /><tspan
          sodipodi:role="line"
          x="886.23633"
          y="507.28711"
-         id="tspan8414">So icons alone don't seem to be the way to go. When putting</tspan><tspan
+         id="tspan8414"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">So icons alone don't seem to be the way to go. When putting</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="522.28711"
-         id="tspan8416">text, we always need to know the context the user</tspan><tspan
+         id="tspan8416"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">text, we always need to know the context the user</tspan><tspan
          sodipodi:role="line"
          x="886.23633"
          y="537.28711"
-         id="tspan8418">is in, to show the right information there. For example:</tspan></text>
+         id="tspan8418"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">is in, to show the right information there. For example:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.00000286px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -8692,7 +8707,7 @@
        id="text8500"
        y="633.28711"
        x="884.23633"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
        xml:space="preserve"><tspan
          y="633.28711"
          x="884.23633"
@@ -8734,7 +8749,8 @@
          sodipodi:role="line"
          id="tspan8514"
          x="1078.2363"
-         y="633.28711">angelinus@jolie.com</tspan></text>
+         y="633.28711"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">angelinus@jolie.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.00000286px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -8787,7 +8803,8 @@
          sodipodi:role="line"
          id="tspan8553"
          x="646.23633"
-         y="584.28711">showing online status</tspan></text>
+         y="584.28711"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">showing online status</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8555"
@@ -8798,10 +8815,11 @@
          y="584.28711"
          x="844.23633"
          id="tspan8557"
-         sodipodi:role="line">showing last contact date</tspan></text>
+         sodipodi:role="line"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">showing last contact date</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
        x="1034.2363"
        y="584.28711"
        id="text8559"
@@ -8820,15 +8838,18 @@
          id="tspan8585"
          y="689.4043"
          x="316.91406"
-         sodipodi:role="line">Best of both worlds: both have their advantages</tspan><tspan
+         sodipodi:role="line"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Best of both worlds: both have their advantages</tspan><tspan
          y="704.4043"
          x="316.91406"
          sodipodi:role="line"
-         id="tspan8624">and disadvantages, so we came up with a solution,</tspan><tspan
+         id="tspan8624"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">and disadvantages, so we came up with a solution,</tspan><tspan
          y="719.4043"
          x="316.91406"
          sodipodi:role="line"
-         id="tspan8628">that uses the best things of each solution.</tspan></text>
+         id="tspan8628"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">that uses the best things of each solution.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        inkscape:export-ydpi="90"
@@ -8860,7 +8881,7 @@
        id="text8636"
        y="718.89581"
        x="885.23633"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal"
        xml:space="preserve"><tspan
          y="718.89581"
          x="885.23633"
@@ -8996,7 +9017,8 @@
          id="tspan8707"
          sodipodi:role="line"
          x="724.91406"
-         y="707.4043">normal</tspan></text>
+         y="707.4043"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">normal</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8714"
@@ -9007,7 +9029,8 @@
          y="787.4043"
          x="724.91406"
          sodipodi:role="line"
-         id="tspan8716">mouse over</tspan></text>
+         id="tspan8716"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">mouse over</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -9018,7 +9041,8 @@
          id="tspan8720"
          sodipodi:role="line"
          x="724.91406"
-         y="863.4043">selected</tspan></text>
+         y="863.4043"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">selected</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8722"
@@ -9029,11 +9053,13 @@
          y="719.4043"
          x="1082.9139"
          sodipodi:role="line"
-         id="tspan8724">status line dependent</tspan><tspan
+         id="tspan8724"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">status line dependent</tspan><tspan
          y="734.4043"
          x="1082.9139"
          sodipodi:role="line"
-         id="tspan8726">on context</tspan></text>
+         id="tspan8726"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">on context</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -9044,23 +9070,25 @@
          id="tspan8732"
          sodipodi:role="line"
          x="1083.9141"
-         y="803.4043">primary contact of</tspan><tspan
+         y="803.4043"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">primary contact of</tspan><tspan
          sodipodi:role="line"
          x="1083.9141"
          y="818.4043"
-         id="tspan8736">each service</tspan></text>
+         id="tspan8736"
+         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">each service</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#babdb6;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 987.23633,716.2871 88.99997,6"
        id="path8738"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1018.2363,795.2871 57,10"
        id="path8740"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#888a85;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 965.23633,814.2871 108.99997,-2"
        id="path8742"
        inkscape:connector-curvature="0" />
