@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="788.03125"
-   height="506.875"
+   width="1652.3438"
+   height="1283.9585"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
@@ -4545,16 +4545,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="6.0101775"
-     inkscape:cy="341.94541"
+     inkscape:cx="438.16643"
+     inkscape:cy="945.35166"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="998"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -4564,7 +4564,7 @@
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="0,1"
-       position="177.78685,531.34024"
+       position="609.9431,1134.7465"
        id="guide6212" />
   </sodipodi:namedview>
   <metadata
@@ -4583,7 +4583,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(116.875,-200.34375)">
+     transform="translate(549.03125,-26.666458)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -4595,7 +4595,7 @@
          id="tspan5087"
          x="21.691406"
          y="55.670364"
-         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">GNOME Contacts: Groups</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">GNOME Contacts: Groups</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -4607,12 +4607,12 @@
          id="tspan5091"
          x="69.748047"
          y="82.944473"
-         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">There are 4 auto-generated groups: All, Available Favourites, Recent. </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">There are 4 auto-generated groups: All, Available Favourites, Recent. </tspan><tspan
          sodipodi:role="line"
          x="69.748047"
          y="97.944473"
          id="tspan5093"
-         style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Additionally a user can create custom groups.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Additionally a user can create custom groups.</tspan></text>
     <rect
        ry="4.7211456"
        rx="4.6545634"
@@ -11316,7 +11316,7 @@
          id="tspan29348"
          x="-549.44641"
          y="169.87851"
-         style="font-size:12px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Default view</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Default view</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text29350"
@@ -11324,7 +11324,7 @@
        x="314.55359"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:12px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          y="169.87851"
          x="314.55359"
          id="tspan29352"
@@ -11340,7 +11340,7 @@
          id="tspan29356"
          x="314.55359"
          y="789.87854"
-         style="font-size:12px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Recent contacts</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Recent contacts</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text29358"
@@ -11348,7 +11348,7 @@
        x="-549.44641"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:12px;-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          y="795.87854"
          x="-549.44641"
          id="tspan29360"
