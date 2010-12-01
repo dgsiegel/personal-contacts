@@ -3276,7 +3276,7 @@
      transform="translate(548.3125,-26.197708)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans"
        x="46.203125"
        y="55.670364"
        id="text5085"
@@ -3288,7 +3288,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">GNOME Contacts: Actions</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans"
        x="47.204102"
        y="82.944473"
        id="text5089"
@@ -4447,7 +4447,7 @@
          x="433.77673"
          style="font-size:14.00000286px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Bitstream Vera Sans"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Droid Sans"
            y="348.47708"
            x="433.77673"
            id="tspan7293-9"
@@ -4479,7 +4479,7 @@
          x="130.50011"
          style="font-size:14.00000286px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Bitstream Vera Sans"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Droid Sans"
            y="364.22791"
            x="130.50011"
            id="tspan7453-2"
@@ -4658,7 +4658,7 @@
            id="tspan7533-3"
            x="229.0715"
            y="447.88712"
-           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Bitstream Vera Sans">E-Mail</tspan></text>
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Droid Sans">E-Mail</tspan></text>
     </g>
     <g
        transform="translate(-532.57507,80.792529)"
@@ -4693,7 +4693,7 @@
          x="435.18155"
          style="font-size:14.00000286px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Bitstream Vera Sans"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Droid Sans"
            y="549.8031"
            x="435.18155"
            id="tspan7613-1"
@@ -4758,7 +4758,7 @@
          x="130.50011"
          style="font-size:14.00000286px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Bitstream Vera Sans"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Droid Sans"
            y="364.22791"
            x="130.50011"
            id="tspan12407"
@@ -5930,7 +5930,7 @@
        x="621.44269"
        style="font-size:20.39450455px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:oblique;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;-inkscape-font-specification:Bitstream Vera Sans Oblique"
+         style="font-size:14px;font-style:oblique;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;-inkscape-font-specification:Droid Sans Oblique"
          y="310.76575"
          x="621.44269"
          id="tspan7402-1"
